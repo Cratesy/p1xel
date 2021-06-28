@@ -6,18 +6,22 @@ P1xel app gives you the opportunity to view and rate games, new and old, popular
 
 ## Table of contents
 
-[Introduction](#introduction)
-[Description](#description)
-[User Story](#user-story)
-[Link To Deployed Application](#link-to-deployed-application)
-[Getting started](#getting-started)
-[Technologies Used](#technologies-used)
-[Wire Frames](#wire-frames)
-[Database Model](#database-model)
-[Screenshots](#screenshots)
-[Future Improvements](#future-improvements)
-[License](#license)
-[Contact the Team](#contact-the-team)
+- [P1XEL](#p1xel)
+  - [Introduction](#introduction)
+  - [Table of contents](#table-of-contents)
+  - [Description](#description)
+  - [User Story](#user-story)
+  - [Link To Deployed Application](#link-to-deployed-application)
+  - [Getting started](#getting-started)
+  - [Technologies Used](#technologies-used)
+    - [MVC](#mvc)
+    - [API](#api)
+  - [Wire frames](#wire-frames)
+  - [Database Model](#database-model)
+  - [Screenshots](#screenshots)
+  - [Future Improvements](#future-improvements)
+  - [License](#license)
+  - [Contact the Team](#contact-the-team)
 
 ## Description
 
